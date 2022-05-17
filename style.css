@@ -1,0 +1,18 @@
+img{
+   width: 100px;
+   height: 100px;
+   margin-top: 12px;
+}
+
+.mini_result{
+   border-radius: 100px;
+   background-color:tomato;
+}
+body{
+   background-color:coral;
+}
+
+h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color:crimson;
+}
